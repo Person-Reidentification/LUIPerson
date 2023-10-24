@@ -6,6 +6,9 @@ In the LUIPerson dataset uses the YOLO-v8 model trained on the COCO dataset as a
 This dataset is collected from places where there are many people with different clothing. One of the unique features of this data is that it was collected during the Arbaeen pilgrimage, which sometimes includes various nationalities. Also, in terms of its challengingness, it can be pointed out that the clothing of the people in the data collection is the same color during the Arbaeen pilgrimage and in one of the places where the picture was taken (Al-Aima Mosque). This uniform coating color intensifies the data challenge in crowded and frequented places.
 
 These videos were recorded by cameras with different resolution quality in places such as Iran University of Science and Technology, Al-Aima Mosque, Arbaeen procession, local fruit shop and supermarket in Tehran, the details of which are given separately in the table below.
+<p align="center">
+   <img src="https://github.com/Person-Reidentification/LUIPerson/assets/36541098/577ffdcf-a8a7-4639-b873-1f04577c7d7c" align='center'>
+</p>
 
 | Location  | Cameras | Total hours | Resolution |Num of day| Num of image | Num of identities|
 | ------  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |
